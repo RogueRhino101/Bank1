@@ -1,1 +1,1 @@
-print('Namaste EV')
+print('Namaste EV v2')
